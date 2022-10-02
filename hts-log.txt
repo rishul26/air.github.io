@@ -1,0 +1,77 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Oct 2022 00:57:09 at https://www.thelogistixco.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.thelogistixco.com/ -O1 "C:\inetrship\service" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:57:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://secure.leadforensics.com/121868.png
+00:57:38	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/o,baseURI (from https://www.thelogistixco.com/)
+00:57:38	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/GET (from https://www.thelogistixco.com/)
+00:57:38	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/Edge/ (from https://www.thelogistixco.com/)
+00:59:47	Error: 	Exit requested by shell or user
+00:59:48	Warning: 	File not added due to mirror cancel: https://www.thelogistixco.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thelogistixco.com%2Fcore-service-iso-20-40-containers%2F
+00:59:48	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/POST (from https://www.thelogistixco.com/)
+00:59:49	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/o,baseURI (from https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/)
+00:59:49	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/GET (from https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/)
+00:59:49	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/Edge/ (from https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/)
+00:59:49	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=2343
+00:59:49	Warning: 	File has moved from https://www.thelogistixco.com/?p=2343 to https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/
+00:59:51	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/POST (from https://www.thelogistixco.com/2022/07/08/e-commerce-giant-shrinking-expansion-plans/)
+00:59:52	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/about-us/o,baseURI (from https://www.thelogistixco.com/about-us/)
+00:59:52	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/about-us/GET (from https://www.thelogistixco.com/about-us/)
+00:59:52	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/about-us/Edge/ (from https://www.thelogistixco.com/about-us/)
+00:59:52	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=231
+00:59:52	Warning: 	File has moved from https://www.thelogistixco.com/?p=231 to https://www.thelogistixco.com/about-us/
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/about-us/POST (from https://www.thelogistixco.com/about-us/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/events/o,baseURI (from https://www.thelogistixco.com/events/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/events/GET (from https://www.thelogistixco.com/events/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/events/Edge/ (from https://www.thelogistixco.com/events/)
+00:59:54	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=2014
+00:59:54	Warning: 	File has moved from https://www.thelogistixco.com/?p=2014 to https://www.thelogistixco.com/events/
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/events/POST (from https://www.thelogistixco.com/events/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/contact-us/o,baseURI (from https://www.thelogistixco.com/contact-us/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/contact-us/GET (from https://www.thelogistixco.com/contact-us/)
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/contact-us/Edge/ (from https://www.thelogistixco.com/contact-us/)
+00:59:54	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=10
+00:59:54	Warning: 	File has moved from https://www.thelogistixco.com/?p=10 to https://www.thelogistixco.com/contact-us/
+00:59:54	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/contact-us/POST (from https://www.thelogistixco.com/contact-us/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/careers/o,baseURI (from https://www.thelogistixco.com/careers/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/careers/GET (from https://www.thelogistixco.com/careers/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/careers/Edge/ (from https://www.thelogistixco.com/careers/)
+00:59:55	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=262
+00:59:55	Warning: 	File has moved from https://www.thelogistixco.com/?p=262 to https://www.thelogistixco.com/careers/
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/careers/POST (from https://www.thelogistixco.com/careers/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/embark/o,baseURI (from https://www.thelogistixco.com/embark/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/embark/GET (from https://www.thelogistixco.com/embark/)
+00:59:55	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/embark/Edge/ (from https://www.thelogistixco.com/embark/)
+00:59:55	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=1369
+00:59:55	Warning: 	File has moved from https://www.thelogistixco.com/?p=1369 to https://www.thelogistixco.com/embark/
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/embark/POST (from https://www.thelogistixco.com/embark/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-liquid-bulk/o,baseURI (from https://www.thelogistixco.com/core-service-liquid-bulk/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-liquid-bulk/GET (from https://www.thelogistixco.com/core-service-liquid-bulk/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-liquid-bulk/Edge/ (from https://www.thelogistixco.com/core-service-liquid-bulk/)
+01:00:00	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=1530
+01:00:00	Warning: 	File has moved from https://www.thelogistixco.com/?p=1530 to https://www.thelogistixco.com/core-service-liquid-bulk/
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-liquid-bulk/POST (from https://www.thelogistixco.com/core-service-liquid-bulk/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-dry-van-flatbed/o,baseURI (from https://www.thelogistixco.com/core-service-dry-van-flatbed/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-dry-van-flatbed/GET (from https://www.thelogistixco.com/core-service-dry-van-flatbed/)
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-dry-van-flatbed/Edge/ (from https://www.thelogistixco.com/core-service-dry-van-flatbed/)
+01:00:00	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=1551
+01:00:00	Warning: 	File has moved from https://www.thelogistixco.com/?p=1551 to https://www.thelogistixco.com/core-service-dry-van-flatbed/
+01:00:00	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-dry-van-flatbed/POST (from https://www.thelogistixco.com/core-service-dry-van-flatbed/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-ltl-management/o,baseURI (from https://www.thelogistixco.com/core-service-ltl-management/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-ltl-management/GET (from https://www.thelogistixco.com/core-service-ltl-management/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-ltl-management/Edge/ (from https://www.thelogistixco.com/core-service-ltl-management/)
+01:00:01	Warning: 	Moved Permanently for https://www.thelogistixco.com/?p=1561
+01:00:01	Warning: 	File has moved from https://www.thelogistixco.com/?p=1561 to https://www.thelogistixco.com/core-service-ltl-management/
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-ltl-management/POST (from https://www.thelogistixco.com/core-service-ltl-management/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-iso-20-40-containers/o,baseURI (from https://www.thelogistixco.com/core-service-iso-20-40-containers/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-iso-20-40-containers/GET (from https://www.thelogistixco.com/core-service-iso-20-40-containers/)
+01:00:01	Error: 	"Not Found" (404) at link https://www.thelogistixco.com/core-service-iso-20-40-containers/Edge/ (from https://www.thelogistixco.com/core-service-iso-20-40-containers/)
+01:00:01	Warning: 	File not added due to mirror cancel: https://www.thelogistixco.com/?p=1556
+01:00:01	Error: 	"mirror stopped by user" (-1) at link https://www.thelogistixco.com/?p=1556 (from https://www.thelogistixco.com/core-service-iso-20-40-containers/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 52 seconds : 188 links scanned, 134 files written (22883443 bytes overall) [6614748 bytes received at 38457 bytes/sec], 23051780 bytes transferred using HTTP compression in 183 files, ratio 15%, 3.2 requests per connection
+(45 errors, 21 warnings, 0 messages)
